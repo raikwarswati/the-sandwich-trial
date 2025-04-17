@@ -71,10 +71,13 @@ To showcase how data science and creative storytelling can merge into something 
 - **Notion** – for scripting, visual layout, and planning  
 
 ## 📽️ Demo
-
-🎥 [Insert video walkthrough link here]  
+  
 📊 [Google Colab Notebook](https://colab.research.google.com/drive/1d9hQfvacyidD5hrHqp2Row-M_DRT6UB5?usp=sharing)
-🎨 [Insert sample comic panel folder or image link here]: https://generated-mantis-1f3.notion.site/Comic-1d5b1b47f1c18052abc1e627f1b7eaef
+
+🎨 [Sample Comic Panel - Using CHATGPT](https://generated-mantis-1f3.notion.site/Comic-1d5b1b47f1c18052abc1e627f1b7eaef)
+
+🎨 [Sample Comic Panel - Using Open Source Flux and Hunyuan Models]([https://generated-mantis-1f3.notion.site/Comic-1d5b1b47f1c18052abc1e627f1b7eaef](https://github.com/raikwarswati/the-sandwich-trial/blob/main/manga_panels_manual/results_comic.md))
+
 
 
 ---
@@ -82,7 +85,8 @@ To showcase how data science and creative storytelling can merge into something 
 ## 🤝 Credits
 
 Created with ❤️ by Swathi Raikwar  
-Part of the [**VanAI Hackathon 2025**](https://kriskrug.notion.site/Data-Storytelling-Hackathon-1a6c6f799a338025bc50d6fc6e9984ae)
+Part of the [**VanAI Hackathon 2025**](https://kriskrug.notion.site/Data-Storytelling-Hackathon-1a6c6f799a338025bc50d6fc6e9984ae) 
+
 GitHub: [@swatyraikwar](https://github.com/swatyraikwar)
 
 ---
