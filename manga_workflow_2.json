@@ -1,0 +1,71 @@
+{
+    "prompt": {
+      "1": {
+        "class_type": "CLIPTextEncode",
+        "inputs": {
+          "text": "placeholder prompt",
+          "clip": ["3", 0]
+        }
+      },
+      "2": {
+        "class_type": "KSampler",
+        "inputs": {
+          "model": ["5", 0],
+          "positive": ["1", 0],
+          "negative": ["4", 0],
+          "latent_image": ["6", 0],
+          "seed": 1329496383,
+          "steps": 20,
+          "cfg": 7,
+          "sampler_name": "euler",
+          "scheduler": "normal",
+          "denoise": 1.0
+        }
+      },
+      "3": {
+        "class_type": "CLIPSetLastLayer",
+        "inputs": {
+          "clip": ["5", 1],
+          "stop_at_clip_layer": -1
+        }
+      },
+      "4": {
+        "class_type": "CLIPTextEncode",
+        "inputs": {
+          "text": "bad anatomy, worst quality, blurry",
+          "clip": ["3", 0]
+        }
+      },
+      "5": {
+        "class_type": "CheckpointLoaderSimple",
+        "inputs": {
+          "ckpt_name": "flux1-schnell-fp8.safetensors"
+        }
+      },
+      "6": {
+        "class_type": "EmptyLatentImage",
+        "inputs": {
+          "width": 768,
+          "height": 768,
+          "batch_size": 1
+        }
+      },
+      "7": {
+        "class_type": "VAEDecode",
+        "inputs": {
+          "samples": ["2", 0],
+          "vae": ["5", 2]
+        }
+      },
+      "8": {
+        "class_type": "SaveImageKJ",
+        "inputs": {
+          "images": ["7", 0],
+          "filename_prefix": "panel",
+          "output_folder": "/teamspace/studios/this_studio/outputs"
+        }
+      }
+
+    }
+  }
+  
