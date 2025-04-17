@@ -12,6 +12,8 @@ This project transforms public opinion into an absurd yet insightful courtroom d
 
 I analyzed data from 500+ participants, extracted demographic and sentiment insights, and built an automated AI pipeline that turns structured data (like a CSV) into manga-style comic panels. Each character—from Judge Sandwich to rebellious Taco—is backed by actual survey logic.
 
+![image](https://github.com/user-attachments/assets/52684742-ab69-4de3-8820-55ef2963c1c9)
+
 It’s data. It’s drama. It’s deliciously absurd.
 
 ## 🎯 Goal
@@ -49,6 +51,7 @@ To showcase how data science and creative storytelling can merge into something 
 
 ## 🧪 How to Use
 
+
 1. Clone the repo and upload your structured dataset (CSV format).
 2. Update the `generate_comic.py` script or ComfyUI workflow with your desired prompt structure.
 3. Run the workflow to generate panels using your GPU-enabled instance.
@@ -71,7 +74,8 @@ To showcase how data science and creative storytelling can merge into something 
 
 🎥 [Insert video walkthrough link here]  
 📊 [Insert Google Colab / Notebook link here]  
-🎨 [Insert sample comic panel folder or image link here]
+🎨 [Insert sample comic panel folder or image link here]: https://generated-mantis-1f3.notion.site/Comic-1d5b1b47f1c18052abc1e627f1b7eaef
+
 
 ---
 
