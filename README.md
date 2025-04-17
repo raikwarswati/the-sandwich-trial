@@ -76,7 +76,7 @@ To showcase how data science and creative storytelling can merge into something 
 
 🎨 [Sample Comic Panel - Using CHATGPT](https://generated-mantis-1f3.notion.site/Comic-1d5b1b47f1c18052abc1e627f1b7eaef)
 
-🎨 [Sample Comic Panel - Using Open Source Flux and Hunyuan Models]([https://generated-mantis-1f3.notion.site/Comic-1d5b1b47f1c18052abc1e627f1b7eaef](https://github.com/raikwarswati/the-sandwich-trial/blob/main/manga_panels_manual/results_comic.md))
+🎨 [Sample Comic Panel - Using Open Source Flux and Hunyuan Models](https://github.com/raikwarswati/the-sandwich-trial/blob/main/manga_panels_manual/results_comic.md)
 
 
 
