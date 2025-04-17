@@ -5,12 +5,11 @@
 
 ***The Hotdog!🌭***
 
-manga_panels_manual/panel_10.1_v1_00001_.png
-![hotdog_victory2.webp](/inputs/reference_images/hotdog_intro.webp)
+![hotdog_victory2.webp](/manga_panels_manual/reference_images/hotdog_intro.webp)
 
 ***The Data Scientist👩‍💻***
 
-![hotdog_victory2.webp](/inputs/reference_images/datascientist_entry.webp)
+![hotdog_victory2.webp](/manga_panels_manual/reference_images/datascientist_entry.webp)
 
 
 ## And, The story begins!
@@ -89,4 +88,4 @@ manga_panels_manual/panel_10.1_v1_00001_.png
 
 ## Let's celebrate
 
-![hotdog_victory2.webp](/inputs/reference_images/hotdog_victory2.webp)
+![hotdog_victory2.webp](/manga_panels_manual/reference_images/hotdog_victory2.webp)
