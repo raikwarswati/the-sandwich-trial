@@ -86,6 +86,7 @@ To showcase how data science and creative storytelling can merge into something 
 
 Created with ❤️ by Swathi Raikwar  
 Part of the [**VanAI Hackathon 2025**](https://kriskrug.notion.site/Data-Storytelling-Hackathon-1a6c6f799a338025bc50d6fc6e9984ae) 
+Sponsors of Hackathon [Rival Technologies](https://www.rivaltech.com/?utm_source=google&utm_medium=search&utm_campaign=Branded&utm_content=RivalTech&utm_term=rival%20technologies&utm_campaign=%5B2L%5D+Branded&utm_source=adwords&utm_medium=ppc&hsa_acc=1677755548&hsa_cam=21041600835&hsa_grp=161643268520&hsa_ad=691704104307&hsa_src=g&hsa_tgt=kwd-1532023863836&hsa_kw=rival%20technologies&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzYLABhD4ARIsALySuCRweHxNcn8G1_b_hVYorwdiQFOnnNA2VSOApxa1lF3rcPIlSwJV9OIaAuPsEALw_wcB)
 
 GitHub: [@swatyraikwar](https://github.com/swatyraikwar)
 
