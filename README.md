@@ -1,6 +1,3 @@
-# the-sandwich-trial
-
-
 # 🌭 The Trial of the Century: Is a Hotdog a Sandwich?
 
 Welcome to *Sizzle Buns*—a playful, data-driven storytelling project where a humble hotdog fights for its identity in a food court of law.
