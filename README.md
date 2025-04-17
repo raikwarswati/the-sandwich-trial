@@ -1,1 +1,88 @@
 # the-sandwich-trial
+
+
+# 🌭 The Trial of the Century: Is a Hotdog a Sandwich?
+
+Welcome to *Sizzle Buns*—a playful, data-driven storytelling project where a humble hotdog fights for its identity in a food court of law.
+
+## 🧑‍⚖️ Project Overview
+
+This project transforms public opinion into an absurd yet insightful courtroom drama, using real survey responses to determine one thing:  
+**Is a hotdog a sandwich?**
+
+I analyzed data from 500+ participants, extracted demographic and sentiment insights, and built an automated AI pipeline that turns structured data (like a CSV) into manga-style comic panels. Each character—from Judge Sandwich to rebellious Taco—is backed by actual survey logic.
+
+It’s data. It’s drama. It’s deliciously absurd.
+
+## 🎯 Goal
+
+To showcase how data science and creative storytelling can merge into something both visually compelling and insight-rich. The project pipeline enables anyone to take a CSV file and generate their own comic-style visual story using editable prompts, styles, and scenes—no design skills required.
+
+## 🛠️ Features
+
+- 🔍 **Insight Extraction**: Analyzes numeric, categorical, and sentiment-based survey data  
+- 📊 **Visualization**: Generates charts and personas from demographic trends  
+- 🖼️ **Automated Comic Generation**: Converts rows in a CSV into AI-generated story panels  
+- 🎨 **Customizable Workflow**: Modify style, characters, and narrative directly through CSV inputs  
+- 🚀 **Reusable Pipeline**: Designed to work with any structured dataset (not just hotdogs!)  
+- 🛠️ **Future Enhancements**:
+  - Text correction in generated images  
+  - In-image editing & character tracking  
+  - Video generation using the same CSV-first logic
+
+## 📂 Repository Structure
+
+```
+📁 /project
+├── data/
+│   └── cleaned_survey_data.csv
+├── notebook/
+│   └── HotdogSandwichResearch.ipynb
+├── scripts/
+│   └── generate_comic.py
+├── assets/
+│   └── comic_panels/
+├── comfyui_workflows/
+│   └── hotdog_comic_workflow.json
+└── README.md
+```
+
+## 🧪 How to Use
+
+1. Clone the repo and upload your structured dataset (CSV format).
+2. Update the `generate_comic.py` script or ComfyUI workflow with your desired prompt structure.
+3. Run the workflow to generate panels using your GPU-enabled instance.
+4. Enjoy your auto-generated comic, based on real data!
+
+> Want to turn a customer feedback CSV into a sci-fi comic? You can.  
+> Want to visualize quarterly earnings as a soap opera? That too.  
+
+## 🧰 Tech Stack
+
+- **Python** (Pandas, NumPy, Seaborn, Matplotlib) – for data prep & EDA  
+- **Google Colab** – for analysis and reproducibility  
+- **ComfyUI** – for node-based image generation  
+- **Flex Schnell SDXL + CLIP Text Encoder** – via HuggingFace  
+- **Hunyuan** – (planned) for text-to-video capabilities  
+- **ChatGPT** – for story planning and creative scaffolding  
+- **Notion** – for scripting, visual layout, and planning  
+
+## 📽️ Demo
+
+🎥 [Insert video walkthrough link here]  
+📊 [Insert Google Colab / Notebook link here]  
+🎨 [Insert sample comic panel folder or image link here]
+
+---
+
+## 🤝 Credits
+
+Created with ❤️ by Swathi Raikwar  
+Part of the **VanAI Hackathon 2025**  
+GitHub: [@swatyraikwar](https://github.com/swatyraikwar)
+
+---
+
+## 💡 License
+
+MIT License — feel free to remix, adapt, and build your own data-powered drama!
