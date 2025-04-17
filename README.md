@@ -73,7 +73,7 @@ To showcase how data science and creative storytelling can merge into something 
 ## 📽️ Demo
 
 🎥 [Insert video walkthrough link here]  
-📊 [Insert Google Colab / Notebook link here]  
+📊 [Google Colab Notebook](https://colab.research.google.com/drive/1d9hQfvacyidD5hrHqp2Row-M_DRT6UB5?usp=sharing)
 🎨 [Insert sample comic panel folder or image link here]: https://generated-mantis-1f3.notion.site/Comic-1d5b1b47f1c18052abc1e627f1b7eaef
 
 
@@ -82,7 +82,7 @@ To showcase how data science and creative storytelling can merge into something 
 ## 🤝 Credits
 
 Created with ❤️ by Swathi Raikwar  
-Part of the **VanAI Hackathon 2025**  
+Part of the [**VanAI Hackathon 2025**](https://kriskrug.notion.site/Data-Storytelling-Hackathon-1a6c6f799a338025bc50d6fc6e9984ae)
 GitHub: [@swatyraikwar](https://github.com/swatyraikwar)
 
 ---
