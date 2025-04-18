@@ -33,12 +33,11 @@ To showcase how data science and creative storytelling can merge into something 
 
 ```
 📁 /project
-├── notebook/
-│   └── HotdogSandwichResearch.ipynb
+├── HotdogSandwichResearch.ipynb
 ├── scripts/
 │   └── generate_comic.py
-├── assets/
-│   └── comic_panels/
+├── manga_panels_manual/
+│   └── results_comic.md
 ├── workflows/
 │   └── manga_workflow_2.json
 └── README.md
