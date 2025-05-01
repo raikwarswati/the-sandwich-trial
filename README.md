@@ -9,6 +9,18 @@ This project transforms public opinion into an absurd yet insightful courtroom d
 
 I analyzed data from 500+ participants, extracted demographic and sentiment insights, and built an automated AI pipeline that turns structured data (like a CSV) into manga-style comic panels. Each character—from Judge Sandwich to rebellious Taco—is backed by actual survey logic.
 
+## What you get!
+
+1. The Hotdog
+
+![hotdog_victory2.webp](/manga_panels_manual/reference_images/hotdog_intro.webp)
+
+2. The Scientist
+
+![hotdog_victory2.webp](/manga_panels_manual/reference_images/datascientist_entry.webp)
+
+3. And the courtroom drama!
+
 ![image](https://github.com/user-attachments/assets/52684742-ab69-4de3-8820-55ef2963c1c9)
 
 It’s data. It’s drama. It’s deliciously absurd.
@@ -16,6 +28,7 @@ It’s data. It’s drama. It’s deliciously absurd.
 ## 🎯 Goal
 
 To showcase how data science and creative storytelling can merge into something both visually compelling and insight-rich. The project pipeline enables anyone to take a CSV file and generate their own comic-style visual story using editable prompts, styles, and scenes—no design skills required.
+   
 
 ## 🛠️ Features
 
@@ -50,6 +63,8 @@ To showcase how data science and creative storytelling can merge into something 
 2. Update the `generate_comic.py` script or ComfyUI workflow with your desired prompt structure.
 3. Run the workflow to generate panels using your GPU-enabled instance.
 4. Enjoy your auto-generated comic, based on real data!
+5. Make sure to copy the manga_workflow_2.json to the workflow folder in ComfyUI
+
 
 > Want to turn a customer feedback CSV into a sci-fi comic? You can.  
 > Want to visualize quarterly earnings as a soap opera? That too.  
